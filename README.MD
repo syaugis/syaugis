@@ -1,5 +1,5 @@
 # Hi, my name is Syaugi! 👋
-Currently pursuing my Bachelor's degree in Informatics at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id)
+Fresh Graduate in Bachelor of Informatics Degree at [Universitas Pembangunan Nasional "Veteran" Jawa Timur](https://www.upnjatim.ac.id)
 
 ## Here are some fun statistics about my profile!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=syaugis.syaugis)
